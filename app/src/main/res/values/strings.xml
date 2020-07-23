@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="lbl_cadastro_clientes">Cadastro de Clientes</string>
+    <string name="btnEntrar">ENTRAR</string>
+    <string name="btnCadastrar">CADASTRAR</string>
+    <string name="btnSalvar">SALVAR</string>
+    <string name="btnPesquisar">PESQUISAR</string>
+    <string name="btnEmBreve">EM BREVE</string>
+    <string name="btnVoltar">VOLTAR</string>
+    <string name="btnContatos">CONTATOS</string>
+    <string name="btnEnderecos">ENDEREÇOS</string>
+    <string name="txtProjetoCrud">PROJETO CRUD</string>
+    <string name="txtContatos">CONTATOS</string>
+    <string name="txtHome">HOME</string>
+    <string name="txtCadastrar">CADASTRAR</string>
+    <string name="txtNome">NOME</string>
+    <string name="txtTelefone">TELEFONE</string>
+    <string name="txtEmail">E-MAIL</string>
+    <string name="txtEmail1">E-MAIL:</string>
+    <string name="txtTelefone1">TELEFONE:</string>
+    <string name="txtPesquisar">PESQUISAR</string>
+    <string name="txtExcluir">Excluir</string>
+    <string name="txtEditar">Editar</string>
+    <string name="txtAtualizar">Atualizar</string>
+    <string name="txtAdvertenciaExcluirContato">Deseja excluir este contato?</string>
+    <string name="txtAtencao">ATENÇÃO!</string>
+    <string name="txtContatoAtualizado">Contato atualizado!</string>
+    <string name="txtContatoCadastradoSucesso">\"Contato cadastrado com sucesso! ID: \"</string>
+
+
+</resources>
